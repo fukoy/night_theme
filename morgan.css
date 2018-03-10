@@ -215,6 +215,7 @@ sup.md-footnote {
 p {
     -ms-word-wrap: break-word;
     word-wrap: break-word;
+		text-indent: 12px;
 }
 
 p,
